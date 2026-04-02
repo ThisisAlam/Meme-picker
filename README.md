@@ -4,6 +4,12 @@ A fun and interactive web app that lets users select their current emotion and g
 
 ---
 
+## 🌐 Live Demo
+
+👉 https://meme-picker-alam.netlify.app
+
+---
+
 ## 📸 Screenshots
 
 ### 🧠 Emotion Selection UI
@@ -33,7 +39,7 @@ A fun and interactive web app that lets users select their current emotion and g
 
 ## 📁 Project Structure
 
-```
+```id="w7k2bn"
 Meme-picker/
 │
 ├── images/
