@@ -61,19 +61,19 @@ header{
     border-radius: 5px;
 }
 
-.radio{
+.emotion-radio-input{
     display: flex;
     align-items: center;
     border-bottom: 1px solid #bcbcbc;
     padding: 4px 8px;
 }
 
-.radio:first-child{
+.emotion-radio-input:first-child{
     border-top-left-radius: 5px;
     border-top-right-radius: 5px;
 }
 
-.radio:last-child{
+.emotion-radio-input:last-child{
     border-bottom: 0;
     border-bottom-left-radius: 5px;
     border-bottom-right-radius: 5px;
@@ -109,6 +109,7 @@ input[type="radio"]{
     margin-right: 5px;
 }
 
+
 .get-image-btn{
     background-color: #67595e;
     color: #eed6d3;
@@ -117,8 +118,15 @@ input[type="radio"]{
     border: none;
     border-radius: 5px;
     margin-bottom: 8px;
+    cursor: pointer;
+    transition: transform 0.2s ease;
 }
-
+.get-image-btn:hover {
+    transform: scale(1.05);
+}
+.get-image-btn:active {
+    transform: scale(0.95);
+}
 /* modal */
 
 .meme-modal{
