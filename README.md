@@ -66,6 +66,14 @@ Meme-picker/
 
 ---
 
+## 📚 Learning Resource
+
+This project was built as part of my learning journey on Scrimba:
+
+👉 https://scrimba.com/?via=u43a7734
+
+---
+
 ## 🔗 Connect With Me
 
 * GitHub: https://github.com/ThisisAlam
